@@ -207,13 +207,12 @@
 				A0B5B1241925A946002C7F22 /* NSString+DDMathParsing.m */,
 			);
 			name = DDMathParser;
-			path = "../../../Downloads/DDMathParser-master/DDMathParser";
+			path = "../../../../Downloads/DDMathParser-master/DDMathParser";
 			sourceTree = "<group>";
 		};
 		A0F78A4C1921AC30006E2D6C = {
 			isa = PBXGroup;
 			children = (
-				A0B5B0F21925A946002C7F22 /* DDMathParser */,
 				A0F78A5E1921AC30006E2D6C /* calculadora */,
 				A0F78A7D1921AC30006E2D6C /* calculadoraTests */,
 				A0F78A571921AC30006E2D6C /* Frameworks */,
@@ -244,6 +243,7 @@
 		A0F78A5E1921AC30006E2D6C /* calculadora */ = {
 			isa = PBXGroup;
 			children = (
+				A0B5B0F21925A946002C7F22 /* DDMathParser */,
 				A0F78A671921AC30006E2D6C /* AppDelegate.h */,
 				A0F78A681921AC30006E2D6C /* AppDelegate.m */,
 				A0F78A6A1921AC30006E2D6C /* Main.storyboard */,
